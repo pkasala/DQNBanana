@@ -1,12 +1,12 @@
-[//]: # (Image References)
 [image1]: https://user-images.githubusercontent.com/10624937/42135619-d90f2f28-7d12-11e8-8823-82b970a54d7e.gif "Trained Agent"
+[myagent]: http://www.youtube.com/watch?v=liwftuF-CC4
 # DQN Project Navigation - Eat Bananas 
 ### Introduction
 This project, describes the reinforcement learning technic for resolve the navigation problem. The problem is describe with continues state space and descret action space.
 The goal is simple, the monkey should eat only yellow bananas :) 
-The enviroment comes from Unity, please read the Unity Envirometn bellow, before making a copy and trying yourself!
+The enviroment comes from Unity, please read the Unity Environment, before making a copy and trying yourself!
 ### Enviroment description
-![image1]
+See my trained agent in action [here](http://www.youtube.com/watch?v=liwftuF-CC4)
 
 A reward of +1 is provided for collecting a yellow banana, and a reward of -1 is provided for collecting a blue banana.  Thus, the goal of your agent is to collect as many yellow bananas as possible while avoiding blue bananas.  
 The state space has 37 dimensions and contains the agent's velocity, along with ray-based perception of objects around agent's forward direction.  Given this information, the agent has to learn how to best select actions.  Four discrete actions are available, corresponding to:
@@ -36,8 +36,8 @@ The project was tested on 3.6 python and requires the following packages to be i
 To try it yourself and see how wise you agent can be :), you'll need to download a new Unity environment.
 You need only select the environment that matches your operating system:
 
-Linux: [download here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/VisualBanana_Linux.zip)
-Mac OSX: [download here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/VisualBanana.app.zip)
-Windows (32-bit): [download here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/VisualBanana_Windows_x86.zip)
-Windows (64-bit): [download here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/VisualBanana_Windows_x86_64.zip)
+* Linux: [download here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/VisualBanana_Linux.zip)
+* Mac OSX: [download here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/VisualBanana.app.zip)
+* Windows (32-bit): [download here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/VisualBanana_Windows_x86.zip)
+* Windows (64-bit): [download here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/VisualBanana_Windows_x86_64.zip)
 
