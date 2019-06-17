@@ -36,6 +36,7 @@ The project was tested on 3.6 python and requires the following packages to be i
 - unityagent 0.4.0
 
 ### Unity Environment
+After success instalation please navigate to line num 25 in ExperienceManager.py and update the path to your installation directory
 To try it yourself and see how wise you agent can be :), you'll need to download a new Unity environment.
 You need only select the environment that matches your operating system:
 
