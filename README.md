@@ -1,6 +1,6 @@
 [image1]: https://user-images.githubusercontent.com/10624937/42135619-d90f2f28-7d12-11e8-8823-82b970a54d7e.gif "Trained Agent"
 [myagent]: http://www.youtube.com/watch?v=liwftuF-CC4
-# DQN Project Navigation - Eat Bananas 
+# Navigation Project - Eat Bananas 
 ### Introduction
 This project, describes the reinforcement learning technic for resolve the navigation problem. 
 The problem is describe with continues state space and descret action space.
