@@ -9,7 +9,7 @@ I used Double DQN with Priority Experience replay alogorithm.
 The enviroment comes from Unity, please read the Unity Environment, before making a copy and trying yourself!
 
 ### Get Started 
-Dowload the zip file navigation.zip and start with ExperienceManager.py
+Clone the repository, install the Unity Enviroment and start with ExperienceManager.py or Navigation.ipynb (update BANANA_INSTALLATION before run)
 
 ### Enviroment description
 **See trained agent in action [here](http://www.youtube.com/watch?v=liwftuF-CC4)**
